@@ -1,0 +1,28 @@
+_repo: The-Tricks-of-the-Town--or-Ways-and-Means-of-getting-Money_29582
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, John, active 1732
+    gutenberg_agent_id: '34026'
+    url: http://www.gutenberg.org/2009/agents/34026
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fraud'
+- !lcsh 'London (England) -- Social life and customs'
+- !lcsh 'London (England) -- Social conditions'
+- !lcsh 'Criminals -- England -- London'
+- !lcc 'HV'
+- !lcsh 'Crime -- England -- London'
+title: 'The Tricks of the Town: or, Ways and Means of getting Money'
+url: http://www.gutenberg.org/ebooks/29582
